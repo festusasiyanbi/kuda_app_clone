@@ -9,8 +9,8 @@ This project is a React Native clone of the home page of the Kuda Finance app. I
 
 ## Screenshots
 <div style="display: flex; width: 100vw; justify-content: space-evenly; align-items: center;">
-  <img src="./assets/images/simulator.png" alt="screenshot" width="500" height="500">
-  <img src="./assets/images/simulator2.png" alt="screenshot" width="500" height="500">
+  <img src="./assets/images/simulator.png" alt="screenshot" style="object-fit: contain;">
+  <img src="./assets/images/simulator2.png" alt="screenshot" style="object-fit: contain;">
 </div>
 
 ## Prerequisites to launch app
