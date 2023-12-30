@@ -18,24 +18,35 @@ This project is a React Native clone of the home page of the Kuda Finance app. I
 
 ## Getting Started
 
-- Clone the repository:
-`git clone https://github.com/festusasiyanbi/kuda-finance-clone.git`
+### Clone the repository:
+```bash
+git clone https://github.com/festusasiyanbi/kuda-finance-clone.git
 
-- Navigate to project directory
-`cd kuda_app_clone`
+### Navigate to project directory
 
-- Install all dependencies
-`npm install`
+```bash
+cd kuda_app_clone
+
+### Install all dependencies
+```bash
+npm install
 
 ### To run on iOS
 ```bash
 npm run ios 
 
-or 
+OR
+
 ``` bash 
 npx react-native run-ios
 
-NB: The default simulator for the iOS is iPhone 15 Pro Max, you can edit this in the package.json file
+NB: The default simulator for the iOS is `iPhone 15 Pro Max`, you can edit this in the package.json file
 
 ### To run on Android
-`npm run android` or `npx react-native run-android`
+```bash
+npm run android
+
+OR
+
+```bash
+ npx react-native run-android
