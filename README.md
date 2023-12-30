@@ -28,25 +28,23 @@ git clone https://github.com/festusasiyanbi/kuda-finance-clone.git
 cd kuda_app_clone
 
 ### Install all dependencies
-```bash
+
 npm install
 
 ### To run on iOS
-```bash
+
 npm run ios 
 
 OR
-
-``` bash 
+ 
 npx react-native run-ios
 
 NB: The default simulator for the iOS is `iPhone 15 Pro Max`, you can edit this in the package.json file
 
 ### To run on Android
-```bash
+
 npm run android
 
 OR
 
-```bash
  npx react-native run-android
