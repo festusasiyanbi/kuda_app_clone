@@ -8,14 +8,14 @@ This project is a React Native clone of the home page of the Kuda Finance app. I
 - Stylish Icons: I downloaded some png files from [Flaticon](https://www.flaticon.com/) and used in place of react-native-vector-icons
 
 ## Screenshots
-<img src="./assets/images/simulator.png" alt="screenshot">
-<img src="./assets/images/simulator2.png" alt="screenshot">
-<img src="./assets/images/screen_recording.png" alt="screenshot">
+<img src="./assets/images/simulator.png" alt="screenshot" width="150" height="150">
+<img src="./assets/images/simulator2.png" alt="screenshot" width="150" height="150">
+<img src="./assets/images/screen_recording.mp4" alt="screen recording" width="150" height="150">
 
 ## Prerequisites to launch app
 
 - Ensure [Node.js](https://nodejs.org/en) is installed on your machine
-- Follow the [React Native CLI set up instructions](https://reactnative.dev/docs/environment-setup)
+- Follow the instructions on [React Native CLI set up](https://reactnative.dev/docs/environment-setup)
 
 ## Getting Started
 
