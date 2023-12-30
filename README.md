@@ -4,13 +4,13 @@
 This project is a React Native clone of the home page of the Kuda Finance app. It replicates the user interface and design elements of the original app's home screen.
 
 ## Features
-- **Quick Access:** I worked on the quick access sectio of the app which allow users have access to common features like Airtime, Internet, TV, and Electricity payments with just a tap
+- **Quick Access:** I worked on the quick access section of the app which allows users have access to common features like Airtime, Internet, TV, and Electricity payments with just a tap
 - **Stylish Icons:** I downloaded some png files from [Flaticon](https://www.flaticon.com/) and used in place of react-native-vector-icons
 
 ## Screenshots
-<div style="display: flex; width: 100%; justify-content: space-evenly; align-items: center;">
-  <img src="./assets/images/simulator.png" alt="screenshot" width="300" height="400">
-  <img src="./assets/images/simulator2.png" alt="screenshot" width="300" height="400">
+<div style="display: flex; width: 100vw; justify-content: space-evenly; align-items: center;">
+  <img src="./assets/images/simulator.png" alt="screenshot" width="500" height="500">
+  <img src="./assets/images/simulator2.png" alt="screenshot" width="500" height="500">
 </div>
 
 ## Prerequisites to launch app
@@ -25,7 +25,7 @@ This project is a React Native clone of the home page of the Kuda Finance app. I
 git clone https://github.com/festusasiyanbi/kuda_app_clone.git
 ```
 
-### Navigate to project directory
+### Navigate to the project directory
 ```bash
 cd kuda_app_clone
 ```
