@@ -8,7 +8,7 @@ This project is a React Native clone of the home page of the Kuda Finance app. I
 - **Stylish Icons:** I downloaded some png files from [Flaticon](https://www.flaticon.com/) and used in place of react-native-vector-icons
 
 ## Screenshots
-<div style="display:flex;">
+<div style="display: flex; width: 100%; justify-content: space-evenly; align-items: center;">
   <img src="./assets/images/simulator.png" alt="screenshot" width="300" height="400">
   <img src="./assets/images/simulator2.png" alt="screenshot" width="300" height="400">
 </div>
@@ -46,7 +46,7 @@ OR
 npx react-native run-ios
 ```
 
-NB: The default simulator for the iOS is `iPhone 15 Pro Max`, you can edit this in the package.json file
+NB: The default simulator for the iOS is `iPhone 15 Pro Max`, you can edit this in the `package.json` file
 
 ### To run on Android
 ```bash
